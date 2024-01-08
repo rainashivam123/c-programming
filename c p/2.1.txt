@@ -1,0 +1,21 @@
+#include <stdio.h>
+  int main() 
+ {
+Int a,b
+Printf("enter two numbers");
+Scanf("%d%d",&a,&b);
+Int c=a+b
+Int d=a-c
+Int e=a*c
+Int f=a%b
+Print("addition of %d and %d is %d,a,b,c");
+Print("sub of %d and %d is %d,a,b,d");
+Print("multiplication of %d and %d is %d,a,b,e");
+Print("remainder of %d and %d is %d,a,b,f");
+Return 0;
+}
+
+
+
+
+
